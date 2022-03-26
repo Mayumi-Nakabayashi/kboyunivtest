@@ -23,7 +23,7 @@ class App extends StatelessWidget {
             color: Colors.black,
           ),
           title: const Text(
-              'withToneテストの大学大学',
+              '3回目変えました',
             style: TextStyle(color: Colors.black),
           ),
           actions: <Widget>[
